@@ -1,4 +1,4 @@
-// 核心配置
+
 const CONFIG = {
   TOKEN: 'auto', // 访问令牌
   SUB_NAME: 'CF-Workers-SUB', // 订阅名称
