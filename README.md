@@ -18,7 +18,7 @@
 
 1. 登录 [Cloudflare Dashboard](https://dash.cloudflare.com/)
 2. 进入 `Workers & Pages` → `Create application` → `Create Worker`
-3. 复制本项目代码[_worker.js](https://github.com/231128ikun/merge/blob/main/_worker.js)到编辑器中
+3. 复制本项目代码[_worker.js](./_worker.js)到编辑器中
 4. 点击 `Save and Deploy`
 
 ### 2. 环境变量配置
